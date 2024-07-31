@@ -4,11 +4,13 @@ class SubmitButton extends StatelessWidget {
   const SubmitButton({
     super.key,
     required this.onTap,
-    required this.text,
+    this.child,
+    this.text,
   });
 
   final void Function() onTap;
-  final String text;
+  final Widget? child;
+  final String? text;
 
   @override
   Widget build(BuildContext context) {
@@ -24,13 +26,14 @@ class SubmitButton extends StatelessWidget {
             color: Colors.green,
             borderRadius: BorderRadius.circular(12),
           ),
-          child: Text(
-            text,
-            style: const TextStyle(
-              color: Colors.white,
-              fontSize: 18,
-            ),
-          ),
+          child: child ??
+              Text(
+                text!,
+                style: const TextStyle(
+                  color: Colors.white,
+                  fontSize: 18,
+                ),
+              ),
         ),
       ),
     );
