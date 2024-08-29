@@ -33,7 +33,31 @@ This e-commerce app allows users to browse products, make purchases, and manage 
 ## Usage 
 
 1. To run the app, use the following command:
-  ```bash
-  flutter run
+   ```bash
+   flutter run
+
+## Features
+User Panel: Browse and purchase products, view order history.
+Admin Panel: Manage products, view and manage orders.
+Authentication: Firebase authentication for secure login and registration.
+Database: Real-time data management with Firestore.
+Navigation: Seamless navigation using Go Router.
+Configuration
+To configure the app, ensure that you have set up Firebase for your project. Replace the google-services.json or GoogleService-Info.plist files in the android/app and ios/Runner directories with your Firebase configuration files.
+
+Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
+Contact
+For any questions or suggestions, feel free to reach out to me:
+
+Email: ehsanjavdan77@gmail.com
+LinkedIn: LinkedIn Profile
+GitHub: GitHub Profile
 
 
