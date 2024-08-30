@@ -48,6 +48,14 @@ This e-commerce app allows users to browse products, make purchases, and manage 
 
 To configure the app, ensure that you have set up Firebase for your project. Replace the google-services.json or GoogleService-Info.plist files in the android/app and ios/Runner directories with your Firebase configuration files.
 
+## Admin Account
+
+To access the admin panel, use the following credentials:
+
+- **Email:** napem98@gmail.com
+- **Password:** 1234567890
+
+
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
