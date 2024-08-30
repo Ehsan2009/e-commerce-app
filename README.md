@@ -2,6 +2,8 @@
 
 An e-commerce application built using Flutter, featuring a full-stack setup with Firebase authentication, Firestore database, and Go Router for navigation.
 
+https://github.com/user-attachments/assets/039ec018-8550-4981-aa3f-ceae153aed69
+
 ## Table of Contents
 
 - [Description](#description)
