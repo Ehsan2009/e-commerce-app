@@ -61,7 +61,7 @@ Contributions are welcome! Please follow these steps to contribute:
 For any questions or suggestions, feel free to reach out to me:
 
 - **Email**: ehsanjavdan77@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ehsan-javdan-274237325/))
 - **GitHub**: [GitHub Profile](https://github.com/Ehsan2009)
 
 
