@@ -9,6 +9,7 @@ An e-commerce application built using Flutter, featuring a full-stack setup with
 - [Usage](#usage)
 - [Features](#features)
 - [Configuration](#configuration)
+- [Admin Account](#admin-account)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
