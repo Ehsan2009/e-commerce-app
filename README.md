@@ -37,27 +37,31 @@ This e-commerce app allows users to browse products, make purchases, and manage 
    flutter run
 
 ## Features
-User Panel: Browse and purchase products, view order history.
-Admin Panel: Manage products, view and manage orders.
-Authentication: Firebase authentication for secure login and registration.
-Database: Real-time data management with Firestore.
-Navigation: Seamless navigation using Go Router.
-Configuration
+
+- **User Panel**: Browse and purchase products, view order history.
+- **Admin Panel**: Manage products, view and manage orders.
+- **Authentication**: Firebase authentication for secure login and registration.
+- **Database**: Real-time data management with Firestore.
+- **Navigation**: Seamless navigation using Go Router.
+  
+## Configuration
+
 To configure the app, ensure that you have set up Firebase for your project. Replace the google-services.json or GoogleService-Info.plist files in the android/app and ios/Runner directories with your Firebase configuration files.
 
-Contributing
+## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
-Contact
+1. Fork the repository to your GitHub account.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Create a new Pull Request.
+
+## Contact
 For any questions or suggestions, feel free to reach out to me:
 
-Email: ehsanjavdan77@gmail.com
-LinkedIn: LinkedIn Profile
-GitHub: GitHub Profile
+- **Email**: ehsanjavdan77@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [GitHub Profile](https://github.com/Ehsan2009)
 
 
